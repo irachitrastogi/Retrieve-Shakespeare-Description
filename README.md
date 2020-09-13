@@ -24,10 +24,14 @@ Please find endpoint documentation via swagger page (`localhost:5000/swagger`).
 
 # Run via current host
 
+Clone the master branch of this repository into your local system
+
+	`git clone https://github.com/irachitrastogi/Retrieve-Shakespeare-Description.git`
+
 Browse to `./src/PokeSpeare.Api` folder then run commands
 
-`dotnet build`  
-`dotnet run`
+	`dotnet build`  
+	`dotnet run`
 
 Application should start listening on `localhost:5000`
 Use a browser to see some pokemon description in Shakespeare style
@@ -42,8 +46,8 @@ Use a browser to see some pokemon description in Shakespeare style
 
 Browse to `./src/PokeSpeare.Api` folder then run command
  
-`docker-compose build`  
-`docker-compose up`
+	`docker-compose build`  
+	`docker-compose up`
 
 Application should start listening on `localhost:5000`
 
