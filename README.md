@@ -24,6 +24,13 @@ Browse to `./src/PokeSpeare.Api` folder then run commands
 `dotnet run`
 
 Application should start listening on `localhost:5000`
+Use a browser to see some pokemon description in Shakespeare style
+
+`http://localhost:5000/pokemon/charizard`
+
+`http://localhost:5000/pokemon/snorlax`
+
+`http://localhost:5000/pokemon/ditto`
 
 # Run via docker container
 
