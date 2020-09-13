@@ -1,7 +1,7 @@
 
 # Part 1
 
-The response is unnder folder path :`Part 1/Part 1_response.pdf`
+The response is unnder folder path :`Part 1/Part 1_Response.pdf`
 
 # Part 2
 # Pokemon Retrieve Shakespeare Description
