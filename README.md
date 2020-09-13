@@ -1,4 +1,4 @@
-# PokeSpeare API
+# Pokemon Retrieve Shakespeare Description
 A Pokemon API in a Shakespeare flavour
 
 # Endpoint
