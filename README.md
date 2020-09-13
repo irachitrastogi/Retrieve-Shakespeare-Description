@@ -18,7 +18,7 @@ Please find endpoint documentation via swagger page (`localhost:5000/swagger`).
 
 # Prerequisites
 
-* `dotnet-core/2.2` runtime (download at https://dotnet.microsoft.com/download/dotnet-core/2.2) [hint: search for "v2.2.0", choose your OS and load the corresponding installer]
+* `dotnet-core/2.2` runtime (download at https://dotnet.microsoft.com/download/dotnet-core/2.2) [hint: search for "v2.2.0", under SDK 2.2.100, choose your OS and load the corresponding installer]
 * `docker desktop` (if run in container) at https://www.docker.com/products/docker-desktop
 * `docker-compose` (if run in container) at https://docs.docker.com/compose/install/
 
