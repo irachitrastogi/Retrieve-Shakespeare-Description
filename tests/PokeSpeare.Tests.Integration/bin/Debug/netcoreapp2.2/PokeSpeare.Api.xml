@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PokeSpeare.Api</name>
+    </assembly>
+    <members>
+        <member name="M:PokeSpeare.Api.Controllers.PokemonController.GetPokemonWithShakespeareDescriptionAsync(System.String)">
+            <summary>
+            Get pokemon description in a Shakespeare flavour
+            </summary>
+            <param name="name">The pokemon name</param>
+            <returns>The pokemon name and description in a Shakespeare flavour</returns>
+        </member>
+        <member name="P:PokeSpeare.Api.Models.GetPokemonResponse.Name">
+            <summary>
+            The pokemon name
+            </summary>
+        </member>
+        <member name="P:PokeSpeare.Api.Models.GetPokemonResponse.Description">
+            <summary>
+            The pokemon Shakespeare flavoured description
+            </summary>
+        </member>
+    </members>
+</doc>

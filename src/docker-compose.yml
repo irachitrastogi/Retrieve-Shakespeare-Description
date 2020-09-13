@@ -1,0 +1,10 @@
+version: '3.5'
+
+services:
+  pokespeare.api:
+    image: pokespeare.api
+    build:
+      context: ./PokeSpeare.Api
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
