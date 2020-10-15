@@ -1,9 +1,3 @@
-
-# Part 1
-
-The response is under folder path :`Part 1/Part 1_Response.pdf`
-
-# Part 2
 # Pokemon Retrieve Shakespeare Description
 A Pokemon API in a Shakespeare flavour
 
